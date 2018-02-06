@@ -24,7 +24,6 @@ Command Line Arguments
 Example: ./main ogre-skeleton.bf ik-b.con output-%05d.pose
 
 	"ogre-skeleton.bf" & "ik-b.con" are the files that we need to input
-	"output-%05d.pose" is the format that we output the files. For this
-			 project, you'll have one output file.
+	"output-%05d.pose" is the format that we output the files. For this project, you'll have one output file.
 
 
