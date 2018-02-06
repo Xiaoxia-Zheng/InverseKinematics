@@ -12,7 +12,8 @@ filename		description
 ogre-skeleton.bf	.bf "bone forest" file containing the skeleton description. 
 			This is a crude file format that stores joint vertex rest positions, corresponding 
 			column indices into the weights matrix, and indices of parent joints.
-ik.con			"constraint file" containing the constraints. The first line contains the number of constraints. Subsequent lines contain the "weightIndex" followed by the constraint position of the end (outboard joint) of the cooresponding bone.
+ik.con			"constraint file" containing the constraints. The first line contains the number of 
+				constraints. Subsequent lines contain the "weightIndex" followed by the constraint position of the end (outboard joint) of the cooresponding bone.
 
 
 
